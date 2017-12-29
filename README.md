@@ -2,7 +2,7 @@
 
 Responsive Subscription Modal with Animation & Validation Form - React JS
 
-This is using Create React App but intergrated with SASS loader to use SASS for styling. 
+This is using Create React App but integrated with SASS loader to use SASS for styling. 
 
 # Screenshot
 
@@ -18,4 +18,4 @@ Run `npm install` for getting dependencies and run
 
 `npm start` for using webpack dev server.
 
-`npm build` for deploying app into Firebase.
+`npm build` for deploying app into PROD.
